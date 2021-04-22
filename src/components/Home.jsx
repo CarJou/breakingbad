@@ -23,7 +23,7 @@ const Home = () =>{
     <div className="container">
         <Image/>
       <Frase frase={frase} />
-      <button className="styles" onClick={() => consultarAPI()}>Obtener frase</button>
+      <button className="styles" onClick={() => consultarAPI()}>Otra frase</button>
     </div>
   );
 }
