@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Frase from "./Frase";
 import Image from "./Image";
-import Styles from "../css/styles.css";
+import "../css/styles.css";
 
 const Home = () =>{
   const [frase, setFrase] = useState({});

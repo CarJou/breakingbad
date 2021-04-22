@@ -1,5 +1,5 @@
 import React from "react";
-import Styles from "../css/styles.css";
+import "../css/styles.css";
 
 const Frase = ({ frase }) => {
   return (
